@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03_Ud4_ServicioDescargaAsyncTask</string>
+    <string name="ArrancarServicioDescarga">Iniciar Servicio Descarga</string>
+    <string name="PararServicioDescarga">Parar Servicio Descarga</string>
+</resources>
