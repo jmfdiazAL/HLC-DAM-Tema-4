@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">02_Ud4_ServicioDescargaSinHilos</string>
+    <string name="ArrancarServicioDescarga">Iniciar Servicio Descarga</string>
+    <string name="PararServicioDescarga">Parar Servico Descarga</string>
+</resources>

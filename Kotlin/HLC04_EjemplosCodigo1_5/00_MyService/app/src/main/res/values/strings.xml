@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">00_MyService</string>
+    <string name="inicia_servicio">Iniciar Servicio</string>
+    <string name="para_servicio">Parar Servicio</string>
+    <string name="iniciarServicio">iniciarServicio</string>
+    <string name="pararServicio">pararServicio</string>
+</resources>
